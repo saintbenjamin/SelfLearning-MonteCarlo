@@ -1,4 +1,4 @@
-__author__ = 'xlibb'
+# __author__ = 'xlibb'
 
 import GetEffective
 import wolff
